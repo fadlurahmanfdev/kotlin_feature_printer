@@ -32,8 +32,8 @@ fun screenFunction() {
 
 initialize printer using custom specification bluetooth printer
 
-https://raw.githubusercontent.com/fadlurahmanfdev/kotlin_feature_printer/master/assets/calculate_dpi.png
-https://raw.githubusercontent.com/fadlurahmanfdev/kotlin_feature_printer/master/assets/example_thermal_printer_spec.png
+<img src="https://raw.githubusercontent.com/fadlurahmanfdev/kotlin_feature_printer/master/assets/calculate_dpi.png"/>
+<img src="https://raw.githubusercontent.com/fadlurahmanfdev/kotlin_feature_printer/master/assets/example_thermal_printer_spec.png"/>
 
 ```kotlin
 val featureBluetooth:FeatureBluetoothPrinterRepository = FeatureBluetoothPrinter()
